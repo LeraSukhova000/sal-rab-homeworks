@@ -9,6 +9,9 @@ function parseProducts(json) {
     let products = parseProducts(json);
     let length = products.length;
     for (let i = 0; i < length; i += 1) {
-        addProduct(products[i]);
+    addProduct(products[i]);
     }
     }
+
+    
+        
